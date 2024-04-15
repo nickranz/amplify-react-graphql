@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyreactgraphql": {}
+      },
+      "storage": {
+        "s35768e834AmpImageBucket": {}
       }
     }
   }
